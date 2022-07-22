@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Charmant'
+theme = "paper"
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    mood = "moods"
